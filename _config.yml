@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bloghadits.github.io
+title: shahihbukharihadits
+tagline: Hadits Shahih Bukhari
+description: Kumpulan Hadits Shahih Bukhari
+paginate: 3
